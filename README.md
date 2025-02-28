@@ -16,7 +16,14 @@ Here are some ideas to get you started:
 
 # 👋 About Me
 
-I am a dedicated Data Analyst student with a strong foundation in Applied Science, currently honing my skills through hands-on projects and an internship as a Junior GIS Analyst. My passion for data analysis drives me to continuously explore new techniques and methodologies to extract meaningful insights from complex datasets.
+I am a dedicated Data Analyst with a strong foundation in Applied Science, specializing in data analytics and machine learning. Recently, I completed my internship as a Junior GIS Analyst, where I honed my skills in spatial data analysis, SQL, Python, R, and Power BI.  
+
+My passion lies in transforming complex datasets into meaningful insights to drive data-driven decision-making. I have worked on various projects, including predictive modeling, customer segmentation, and dashboard development using R, Python, and SQL. My GitHub showcases projects in data visualization, machine learning, and artificial intelligence.  
+
+I am actively seeking job opportunities where I can apply my analytical skills, collaborate with cross-functional teams, and continue growing as a data professional.  
+
+Let's connect! 🚀  
+
 
 ## 🔧 Skills & Tools
 
